@@ -1,0 +1,2 @@
+#!/bin/bash
+java -Djavax.net.ssl.keyStore=SSLKeystore -Djavax.net.ssl.keyStorePassword=123456 -Djavax.net.ssl.trustStore=SSLKeystore -Djavax.net.ssl.trustStorePassword=123456 cla
